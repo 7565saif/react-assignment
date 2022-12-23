@@ -1,0 +1,36 @@
+.topbar {
+  background-color: #fff;
+  padding: 16px 78px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.logo {
+  width: 130px;
+  font-size: 32px;
+  color: #0084ff;
+}
+.Stories {
+  margin: 0;
+  font-weight: 500;
+  font: caption;
+  font-style: italic;
+  text-align: center;
+}
+.button {
+  float: right;
+  border-radius: 30px;
+  background-color: #0084ff;
+  border: 0;
+  color: #fff;
+  
+}
+.aboutblog {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  display: inline;
+}
+.blog {
+  text-align: right;
+  float: right;
+}

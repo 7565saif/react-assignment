@@ -1,0 +1,35 @@
+
+.heading {
+  text-decoration-color: #000;
+  font-weight: 600;
+  margin: 0;
+}
+.filter {
+  font-size: 14px;
+  font-weight: 600;
+  margin-left: 8px;
+}
+
+.box-category {
+  padding: 16px 14px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  width: auto;
+  color: #0084ff;
+  border-radius: 15px;
+  border: 1px solid #0084ff;
+  margin: 5px;
+  cursor: pointer;
+}
+.box-category:hover{
+  color: #fff;
+  background-color: #0084ff;
+}
+
+.filter-box {
+  padding: 10px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
